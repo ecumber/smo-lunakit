@@ -6,10 +6,12 @@
                 "${workspaceFolder}/src/**",
                 "${workspaceFolder}/src/nn/**",
                 "${workspaceFolder}/src/sead/**",
-                "${workspaceFolder}/src/lib/**"
+                "${workspaceFolder}/src/lib/**",
+                "${workspaceFolder}/src/program/**",
+                "${workspaceFolder}/imgui/**"
             ],
             "defines": [],
-            "compilerPath": "/opt/devkitpro/devkitA64/bin/aarch64-none-elf-g++",
+            "compilerPath": "C:/MSYS2/opt/devkitpro/devkitA64/bin/aarch64-none-elf-g++",
             "cStandard": "c17",
             "cppStandard": "gnu++23",
             "compileCommands": "${workspaceFolder}/compile_commands.json"
